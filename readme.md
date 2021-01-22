@@ -6,4 +6,4 @@
 
 Open this with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in local machine.
 
-Or you can open in Github Pages [Travel Landing Page](https://github.com/franzamd/travel-landing-page.git).
+Or you can open in Github Pages [Travel Landing Page](https://franzamd.github.io/travel-landing-page/).
