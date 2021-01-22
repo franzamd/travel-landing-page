@@ -4,5 +4,6 @@
 
 ## Usage
 
-Open this with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+Open this with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in local machine.
 
+Or you can open in Github Pages [Travel Landing Page](https://github.com/franzamd/travel-landing-page.git).
